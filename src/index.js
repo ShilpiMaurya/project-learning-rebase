@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import Primary from "./Primary";
 import Secondary from "./Secondary";
+import Third from "./Third";
 import "./index.css";
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
       <h4>Become the best version of yourself everyday</h4>
       <Primary />
       <Secondary />
+      <Third />
     </>
   );
 };
