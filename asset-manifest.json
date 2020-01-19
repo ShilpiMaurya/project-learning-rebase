@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project-learning-rebase/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/project-learning-rebase/static/js/main.4ce121ab.chunk.js",
+    "main.js.map": "/project-learning-rebase/static/js/main.4ce121ab.chunk.js.map",
+    "runtime-main.js": "/project-learning-rebase/static/js/runtime-main.e859ee14.js",
+    "runtime-main.js.map": "/project-learning-rebase/static/js/runtime-main.e859ee14.js.map",
+    "static/js/2.45c08c70.chunk.js": "/project-learning-rebase/static/js/2.45c08c70.chunk.js",
+    "static/js/2.45c08c70.chunk.js.map": "/project-learning-rebase/static/js/2.45c08c70.chunk.js.map",
+    "index.html": "/project-learning-rebase/index.html",
+    "precache-manifest.ae8f38f7326ae5674652dc1829607b97.js": "/project-learning-rebase/precache-manifest.ae8f38f7326ae5674652dc1829607b97.js",
+    "service-worker.js": "/project-learning-rebase/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/project-learning-rebase/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.45c08c70.chunk.js.LICENSE": "/project-learning-rebase/static/js/2.45c08c70.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e859ee14.js",
+    "static/js/2.45c08c70.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4ce121ab.chunk.js"
+  ]
+}
