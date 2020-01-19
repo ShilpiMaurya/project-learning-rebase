@@ -3,6 +3,7 @@ import ReactDOM from "react-dom";
 import Primary from "./Primary";
 import Secondary from "./Secondary";
 import Third from "./Third";
+import Fourth from "./Fourth";
 import "./index.css";
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Primary />
       <Secondary />
       <Third />
+      <Fourth />
     </>
   );
 };
